@@ -1,2 +1,2 @@
-# SpectralMethodNotes
-Misc notes on spectral methods forr diff eqs
+# Spectral Method Notes
+Misc notes on spectral methods for diff eqs
