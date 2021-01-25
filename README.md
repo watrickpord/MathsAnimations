@@ -1,2 +1,2 @@
-# Spectral Method Notes
-Misc notes on spectral methods for diff eqs
+# Maths Animations
+Assorted mathematical animations
